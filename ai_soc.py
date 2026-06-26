@@ -6,7 +6,7 @@ import json
 # CONFIG
 # ==========================
 
-WAZUH_SERVER = "192.168.29.101"
+WAZUH_SERVER = "192.168.56.10"
 USERNAME = "bharath"
 PASSWORD = "3600"
 
